@@ -1,5 +1,5 @@
 {
-    "version": "1.0.0-*",
+    "version": "1.0.0-beta2",
     "dependencies": {
         "xunit.assert": "2.0.0-aspnet-*",
         "xunit.core": "2.0.0-aspnet-*"
@@ -14,11 +14,11 @@
         },
         "aspnetcore50": {
             "dependencies": {
-                "System.Runtime": "4.0.20-beta-*",
-                "System.Globalization": "4.0.10-beta-*",
-                "System.Threading.Tasks": "4.0.10-beta-*",
-                "System.Reflection": "4.0.10-beta-*",
-                "System.Threading.Thread": "4.0.0-beta-*"
+                "System.Runtime": "4.0.20-beta-22416",
+                "System.Globalization": "4.0.10-beta-22416",
+                "System.Threading.Tasks": "4.0.10-beta-22416",
+                "System.Reflection": "4.0.10-beta-22416",
+                "System.Threading.Thread": "4.0.0-beta-22416"
             }
         }
     }

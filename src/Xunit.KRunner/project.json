@@ -1,9 +1,9 @@
 {
-    "version": "1.0.0-*",
+    "version": "1.0.0-beta2",
     "dependencies": {
-        "Microsoft.Framework.TestAdapter": "1.0.0-*",
-        "Microsoft.Framework.Runtime.Interfaces": { "version": "1.0.0-*", "type": "build" },
-        "Microsoft.Framework.TestHost": "1.0.0-*",
+        "Microsoft.Framework.TestAdapter": "1.0.0-beta2",
+        "Microsoft.Framework.Runtime.Interfaces": { "version": "1.0.0-beta2", "type": "build" },
+        "Microsoft.Framework.TestHost": "1.0.0-beta2",
         "xunit.abstractions": "2.0.0-aspnet-*",
         "xunit.assert": "2.0.0-aspnet-*",
         "xunit.execution": "2.0.0-aspnet-*"
@@ -12,8 +12,8 @@
         "aspnet50": { },
         "aspnetcore50": {
             "dependencies": {
-                "System.Console": "4.0.0-beta-*",
-                "System.Diagnostics.Process": "4.0.0-beta-*"
+                "System.Console": "4.0.0-beta-22416",
+                "System.Diagnostics.Process": "4.0.0-beta-22416"
             }
         }
     }
